@@ -1,20 +1,22 @@
 using System;
+using System.Diagnostics;
 
 namespace console_programlama
 {
-    class program1
+    internal class NewBaseType
     {
-        
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!!");
             Console.WriteLine("Enter name:");
-            string name = Console.ReadLin();
+            string name = Console.ReadLine();
             Console.WriteLine("Enter Surname:");
             string surname = Console.ReadLine();
 
-            Console.WriteLine("Merhaba" + name + " " + surname );
-            
+            Console.WriteLine("Merhaba" + name + " " + surname);
+
         }
     }
 }
+
+    

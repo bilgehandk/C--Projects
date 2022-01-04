@@ -1,0 +1,5 @@
+C:\Users\bilge\OneDrive\Belgeler\GitHub\C--Projects\obj\Debug\net5.0\C--Projects.csproj.AssemblyReference.cache
+C:\Users\bilge\OneDrive\Belgeler\GitHub\C--Projects\obj\Debug\net5.0\C--Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilge\OneDrive\Belgeler\GitHub\C--Projects\obj\Debug\net5.0\C--Projects.AssemblyInfoInputs.cache
+C:\Users\bilge\OneDrive\Belgeler\GitHub\C--Projects\obj\Debug\net5.0\C--Projects.AssemblyInfo.cs
+C:\Users\bilge\OneDrive\Belgeler\GitHub\C--Projects\obj\Debug\net5.0\C--Projects.csproj.CoreCompileInputs.cache
