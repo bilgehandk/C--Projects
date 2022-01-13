@@ -63,7 +63,59 @@ namespace C__Projects
                             Console.WriteLine(sayilar[j]);
                         }
                     }
+                    //Bir konsol uygulamasında kullanıcıdan pozitif bir sayı girmesini isteyin (n).
+                    //Sonrasında kullanıcıdan n adet kelime girmesi isteyin.
+                    //Kullanıcının girişini yaptığı kelimeleri sondan başa doğru console'a yazdırın.
+            
+                    /*Console.WriteLine("Bir pozitif sayi girin:");
+                    int  n = Convert.ToInt32(Console.ReadLine());
+                    if (n > 0)
+                    {
+                        string[] kelimeler = new string[n];
+                        for (int i = 0; i < n; i++)
+                        {
+                            Console.WriteLine("Kelimleri yazin:");
+                            string kelime = Console.ReadLine();
+                            kelimeler[i] = kelime;
+                            
+                        }
+                        
+                        Array.Reverse(kelimeler);
+                        foreach (var item in kelimeler)
+                        {
+                            Console.WriteLine(item);
+                        }
+                    }    */
+            
+            
+            
+                    //Bir konsol uygulamasında kullanıcıdan bir cümle yazması isteyin.
+                    //Cümledeki toplam kelime ve harf sayısını console'a yazdırın.
+            
+                    Console.WriteLine("Bir cümle yazın:");
+                    string cumle = Convert.ToString(Console.ReadLine());
 
+                    string[] kelimeler = cumle.Split(' ');
+                    char[] harfler = cumle.ToCharArray();
+                    int amountofkelime = 0;
+                    int amountofharf = 0;
+
+                    foreach (var kelime in kelimeler)
+                    {
+                        amountofkelime++;
+                    }
+
+                    foreach (var harf in harfler)
+                    {
+                        if (harf ==  ' ')
+                        {
+                            continue;
+                        }
+                        amountofharf++;
+                    }
+            
+                    Console.WriteLine("Kelime sayısı: " + amountofkelime);
+                    Console.WriteLine("Harf Sayısı: " + amountofharf);
 
 
             }
