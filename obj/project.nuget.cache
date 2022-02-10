@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "IOnw82ftzmnSUGkMcrxcJKypfeaCZ4HIP/gSI0qdnkqZInwiXgMMaQ1E46LT6aevLDm6bf+68mGn39pIK5o2EQ==",
+  "dgSpecHash": "+91GpbHu6mKFbfZrPUKjtdcJ84TaxdunMQEzeQupf/FE2iFNtkk79pOa/Als6mZPX7FB7/qxsmMa8j9rhbRZJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bilge\\OneDrive\\Belgeler\\GitHub\\C--Projects\\C--Projects.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\codes\\C--Projects\\C--Projects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bilge\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\bilge\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\bilge\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\bilge\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -13,21 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bilge\\OneDrive\\Belgeler\\GitHub\\C--Projects\\C--Projects.csproj",
+      "projectUniqueName": "C:\\codes\\C--Projects\\C--Projects.csproj",
       "projectName": "C--Projects",
-      "projectPath": "C:\\Users\\bilge\\OneDrive\\Belgeler\\GitHub\\C--Projects\\C--Projects.csproj",
+      "projectPath": "C:\\codes\\C--Projects\\C--Projects.csproj",
       "packagesPath": "C:\\Users\\bilge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bilge\\OneDrive\\Belgeler\\GitHub\\C--Projects\\obj\\",
+      "outputPath": "C:\\codes\\C--Projects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bilge\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\bilge\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -55,12 +53,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\bilge\\.dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
