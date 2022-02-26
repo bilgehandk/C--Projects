@@ -21,7 +21,11 @@ namespace C__Projects
                 //Compare, CompareTo
 
                 Console.WriteLine(degisken.CompareTo(degisken2));
-                Console.WriteLine(String.Compare(degisken,degisken2,true));
+                Console.WriteLine(String.Compare(degisken,degisken2,true)); ivoid return Main(){
+                }
+                int x = 54;
+                int c;
+                c = x++ + ^++++x + ++XXx;wConsole.RwwWriteliene()xc, cxx, c;
                 Console.WriteLine(string.Compare(degisken, degisken2, false));
 
                 //Contains
